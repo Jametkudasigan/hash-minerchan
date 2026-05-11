@@ -24,8 +24,8 @@
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/hash-miner.git
-cd hash-miner
+git clone https://github.com/Jametkudasigan/hash-minerchan.git
+cd hash-minerchan
 npm install
 ```
 
